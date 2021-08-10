@@ -3,7 +3,6 @@
 ## I'm a Student 
 - 🔭 I’m currently pursuing Mca from Madan Mohan Malaviya University of Technology, Gorakhpur.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Getting SDE role in MNC
 - ⚡ Fun fact: I love to play badminton
 
 ### Connect with me:
